@@ -53,14 +53,14 @@
 <xsl:template match="x:nav//x:li[@data-document]/x:a/@class"/>
 
 <!-- Convert Introduction modules into the chapter link -->
-<xsl:template match="x:nav//x:li[x:ol/x:li/x:a[text() = 'Introduction']]/x:span">
-  <xsl:apply-templates mode="intro" select="../x:ol/x:li/x:a[text() = 'Introduction']">
+<xsl:template match="x:nav//x:li[x:ol/x:li/x:a[starts-with(text(), 'Introduction')]]/x:span">
+  <xsl:apply-templates mode="intro" select="../x:ol/x:li/x:a[starts-with(text(), 'Introduction')]">
     <xsl:with-param name="link-text" select="text()"/>
   </xsl:apply-templates>
 </xsl:template>
 
-<xsl:template               match="x:li[@class]/x:ol/x:li[x:a[text() = 'Introduction']]"/>
-<xsl:template mode="intro"  match="x:nav//x:li[@class]/x:ol/x:li/x:a[text() = 'Introduction']">
+<xsl:template               match="x:li[@class]/x:ol/x:li[x:a[starts-with(text(), 'Introduction')]]"/>
+<xsl:template mode="intro"  match="x:nav//x:li[@class]/x:ol/x:li/x:a[starts-with(text(), 'Introduction')]">
   <xsl:param name="link-text"/>
   <xsl:copy>
     <xsl:apply-templates select="@*"/>
@@ -198,5 +198,76 @@
 
 <xsl:template match="x:em/@data-effect|x:strong/@data-effect"/>
 <xsl:template match="*[@data-type='solution']/@data-label"/>
+
+<xsl:template match="*[@data-type='newline' and not(@effect)]">
+  <br>
+    <xsl:apply-templates select="@*"/>
+  </br>
+</xsl:template>
+
+<xsl:template match="*[@data-type='newline' and not(@effect)]">
+  <hr>
+    <xsl:apply-templates select="@*"/>
+  </hr>
+</xsl:template>
+
+
+
+<!-- Escape pipes and underscores because they have special meaning in kramdown -->
+<xsl:template name="string-replace">
+   <xsl:param name="text" />
+   <xsl:param name="pattern" />
+   <xsl:param name="replace-with" />
+   <xsl:choose>
+      <xsl:when test="contains($text, $pattern)">
+         <xsl:value-of select="substring-before($text, $pattern)" />
+         <xsl:value-of select="$replace-with" />
+         <xsl:call-template name="string-replace">
+            <xsl:with-param name="text" select="substring-after($text, $pattern)" />
+            <xsl:with-param name="pattern" select="$pattern" />
+            <xsl:with-param name="replace-with" select="$replace-with" />
+         </xsl:call-template>
+      </xsl:when>
+      <xsl:otherwise>
+         <xsl:value-of select="$text" />
+      </xsl:otherwise>
+   </xsl:choose>
+</xsl:template>
+
+<xsl:template match="text()">
+  <xsl:variable name="original" select="."/>
+  <xsl:variable name="pipes">
+    <xsl:call-template name="string-replace">
+      <xsl:with-param name="text" select="$original"/>
+      <xsl:with-param name="pattern">|</xsl:with-param>
+      <xsl:with-param name="replace-with">\|</xsl:with-param>
+    </xsl:call-template>
+  </xsl:variable>
+  <xsl:variable name="underscores">
+    <xsl:call-template name="string-replace">
+      <xsl:with-param name="text" select="$pipes"/>
+      <xsl:with-param name="pattern">_</xsl:with-param>
+      <xsl:with-param name="replace-with">\_</xsl:with-param>
+    </xsl:call-template>
+  </xsl:variable>
+  <!-- For liquid templates -->
+  <xsl:variable name="double-curly">
+    <xsl:call-template name="string-replace">
+      <xsl:with-param name="text" select="$underscores"/>
+      <xsl:with-param name="pattern">{{</xsl:with-param>
+      <xsl:with-param name="replace-with">{ {</xsl:with-param>
+    </xsl:call-template>
+  </xsl:variable>
+  <xsl:variable name="curly-percent">
+    <xsl:call-template name="string-replace">
+      <xsl:with-param name="text" select="$double-curly"/>
+      <xsl:with-param name="pattern">{%</xsl:with-param>
+      <xsl:with-param name="replace-with">{ %</xsl:with-param>
+    </xsl:call-template>
+  </xsl:variable>
+
+  <xsl:value-of select="$curly-percent"/>
+</xsl:template>
+
 
 </xsl:stylesheet>
