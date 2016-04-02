@@ -317,5 +317,7 @@ Biology is designed for multi-semester biology courses for science majors. It is
         3.  [Threats to Biodiversity](contents/m44896.md)
         4.  [Preserving Biodiversity](contents/m44898.md)
 
-10. {: .appendix} [Appendix](contents/m45849.md)
+10. {: .appendix} [The Periodic Table of Elements](contents/m45849.md)
+11. {: .appendix} [Geological Time](contents/m60107.md)
+12. {: .appendix} [Measurements and the Metric System](contents/m60108.md)
 
