@@ -1,17 +1,24 @@
+
 # Dependencies
 markdown:         kramdown
 
+# Permalinks
+#permalink:        pretty
+
 # Setup
+title:            'Biology'
+tagline:          'from http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@10.8 (CC-BY)'
+url:              https://github.com/philschatz/biology-book
+origin:           http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@10.8
+
 author:
-  name:           "Openstax"
-  url:            http://cnx.org
+  name:           'Openstax'
+  url:            https://github.com/openstax
 
-
-title:            "Openstax Biology"
+paginate:         5
 
 # Custom vars
-version:          9.17
-origin:           http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd
+version:          10.8
 
+bookviewer:       /book-viewer
 
-bookviewer:       http://philschatz.com/book-viewer
