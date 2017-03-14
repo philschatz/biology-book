@@ -17,8 +17,8 @@
   <!-- WARNING! The 'metadata' section is read only. Do not edit below.
        Changes to the metadata section in the source will not be saved. -->
 
-  <md:repository>http://cnx.org/content</md:repository>
-  <md:content-url>http://cnx.org/content/col11448/1.10</md:content-url>
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/col11448/1.10</md:content-url>
   <md:content-id>col11448</md:content-id>
   <md:title>Biology</md:title>
   
@@ -34,7 +34,7 @@
       <md:firstname>Rice</md:firstname>
       <md:surname>University</md:surname>
       <md:fullname>Rice University</md:fullname>
-      <md:email>daniel@openstaxcollege.org</md:email>
+      <md:email>info@openstaxcollege.org</md:email>
     </md:person>
     
     
@@ -50,7 +50,7 @@
     <md:person userid="cnxbio">
       <md:firstname>Cnx</md:firstname>
       <md:surname>Biology</md:surname>
-      <md:fullname>Cnx Biology</md:fullname>
+      <md:fullname>OpenStax Biology</md:fullname>
       <md:email>ryan.s.stickney@gmail.com</md:email>
     </md:person>
     
@@ -194,7 +194,7 @@
   <col:content>
     
       <col:module document="m46078" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Preface to Biology</md:title>
         
@@ -228,7 +228,7 @@
           
     
       <col:module document="m44386" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -240,7 +240,7 @@
     
     
       <col:module document="m44387" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.12">
         <md:title>The Science of Biology</md:title>
         
@@ -252,7 +252,7 @@
     
     
       <col:module document="m44388" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.13">
         <md:title>Themes and Concepts of Biology</md:title>
         
@@ -278,7 +278,7 @@
           
     
       <col:module document="m44389" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -290,7 +290,7 @@
     
     
       <col:module document="m44390" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.13">
         <md:title>Atoms, Isotopes, Ions, and Molecules: The Building Blocks</md:title>
         
@@ -302,7 +302,7 @@
     
     
       <col:module document="m44392" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Water</md:title>
         
@@ -314,7 +314,7 @@
     
     
       <col:module document="m44393" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Carbon</md:title>
         
@@ -340,7 +340,7 @@
           
     
       <col:module document="m44395" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -352,7 +352,7 @@
     
     
       <col:module document="m44397" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.12">
         <md:title>Synthesis of Biological Macromolecules</md:title>
         
@@ -364,7 +364,7 @@
     
     
       <col:module document="m44400" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Carbohydrates</md:title>
         
@@ -376,7 +376,7 @@
     
     
       <col:module document="m44401" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Lipids</md:title>
         
@@ -388,7 +388,7 @@
     
     
       <col:module document="m44402" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Proteins</md:title>
         
@@ -400,7 +400,7 @@
     
     
       <col:module document="m44403" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Nucleic Acids</md:title>
         
@@ -440,7 +440,7 @@
           
     
       <col:module document="m44404" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -452,7 +452,7 @@
     
     
       <col:module document="m44405" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Studying Cells</md:title>
         
@@ -464,7 +464,7 @@
     
     
       <col:module document="m44406" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.11">
         <md:title>Prokaryotic Cells</md:title>
         
@@ -476,7 +476,7 @@
     
     
       <col:module document="m44407" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.14">
         <md:title>Eukaryotic Cells</md:title>
         
@@ -488,7 +488,7 @@
     
     
       <col:module document="m44435" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.12">
         <md:title>The Endomembrane System and Proteins</md:title>
         
@@ -500,7 +500,7 @@
     
     
       <col:module document="m44412" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>The Cytoskeleton</md:title>
         
@@ -512,7 +512,7 @@
     
     
       <col:module document="m44413" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Connections between Cells and Cellular Activities</md:title>
         
@@ -538,7 +538,7 @@
           
     
       <col:module document="m44415" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -550,7 +550,7 @@
     
     
       <col:module document="m44416" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Components and Structure</md:title>
         
@@ -562,7 +562,7 @@
     
     
       <col:module document="m44417" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.12">
         <md:title>Passive Transport</md:title>
         
@@ -574,7 +574,7 @@
     
     
       <col:module document="m44418" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Active Transport</md:title>
         
@@ -586,7 +586,7 @@
     
     
       <col:module document="m44419" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Bulk Transport</md:title>
         
@@ -612,7 +612,7 @@
           
     
       <col:module document="m44421" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -624,7 +624,7 @@
     
     
       <col:module document="m44422" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Energy and Metabolism</md:title>
         
@@ -636,7 +636,7 @@
     
     
       <col:module document="m44425" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Potential, Kinetic, Free, and Activation Energy</md:title>
         
@@ -648,7 +648,7 @@
     
     
       <col:module document="m44424" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>The Laws of Thermodynamics</md:title>
         
@@ -660,7 +660,7 @@
     
     
       <col:module document="m44427" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>ATP: Adenosine Triphosphate</md:title>
         
@@ -672,7 +672,7 @@
     
     
       <col:module document="m44429" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Enzymes</md:title>
         
@@ -698,7 +698,7 @@
           
     
       <col:module document="m44430" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -710,7 +710,7 @@
     
     
       <col:module document="m44431" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Energy in Living Systems</md:title>
         
@@ -722,7 +722,7 @@
     
     
       <col:module document="m44432" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Glycolysis</md:title>
         
@@ -734,7 +734,7 @@
     
     
       <col:module document="m44433" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Oxidation of Pyruvate and the Citric Acid Cycle</md:title>
         
@@ -746,7 +746,7 @@
     
     
       <col:module document="m44437" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Oxidative Phosphorylation</md:title>
         
@@ -758,7 +758,7 @@
     
     
       <col:module document="m44444" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Metabolism without Oxygen</md:title>
         
@@ -770,7 +770,7 @@
     
     
       <col:module document="m44441" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways</md:title>
         
@@ -782,7 +782,7 @@
     
     
       <col:module document="m44442" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Regulation of Cellular Respiration</md:title>
         
@@ -808,7 +808,7 @@
           
     
       <col:module document="m44446" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -820,7 +820,7 @@
     
     
       <col:module document="m44447" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Overview of Photosynthesis</md:title>
         
@@ -832,7 +832,7 @@
     
     
       <col:module document="m44448" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.12">
         <md:title>The Light-Dependent Reactions of Photosynthesis</md:title>
         
@@ -844,7 +844,7 @@
     
     
       <col:module document="m44449" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Using Light Energy to Make Organic Molecules</md:title>
         
@@ -870,7 +870,7 @@
           
     
       <col:module document="m44450" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -882,7 +882,7 @@
     
     
       <col:module document="m44451" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Signaling Molecules and Cellular Receptors</md:title>
         
@@ -894,7 +894,7 @@
     
     
       <col:module document="m44452" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Propagation of the Signal</md:title>
         
@@ -906,7 +906,7 @@
     
     
       <col:module document="m44453" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Response to the Signal</md:title>
         
@@ -918,7 +918,7 @@
     
     
       <col:module document="m44454" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Signaling in Single-Celled Organisms</md:title>
         
@@ -944,7 +944,7 @@
           
     
       <col:module document="m44457" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -956,7 +956,7 @@
     
     
       <col:module document="m44459" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Cell Division</md:title>
         
@@ -968,7 +968,7 @@
     
     
       <col:module document="m44460" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>The Cell Cycle</md:title>
         
@@ -980,7 +980,7 @@
     
     
       <col:module document="m44466" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Control of the Cell Cycle</md:title>
         
@@ -992,7 +992,7 @@
     
     
       <col:module document="m44463" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Cancer and the Cell Cycle</md:title>
         
@@ -1004,7 +1004,7 @@
     
     
       <col:module document="m44467" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Prokaryotic Cell Division</md:title>
         
@@ -1044,7 +1044,7 @@
           
     
       <col:module document="m44468" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -1056,7 +1056,7 @@
     
     
       <col:module document="m44469" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>The Process of Meiosis</md:title>
         
@@ -1068,7 +1068,7 @@
     
     
       <col:module document="m44470" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Sexual Reproduction</md:title>
         
@@ -1094,7 +1094,7 @@
           
     
       <col:module document="m44474" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -1106,7 +1106,7 @@
     
     
       <col:module document="m44476" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Mendel’s Experiments and the Laws of Probability</md:title>
         
@@ -1118,7 +1118,7 @@
     
     
       <col:module document="m44478" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Characteristics and Traits</md:title>
         
@@ -1130,7 +1130,7 @@
     
     
       <col:module document="m44479" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Laws of Inheritance</md:title>
         
@@ -1156,7 +1156,7 @@
           
     
       <col:module document="m44480" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -1168,7 +1168,7 @@
     
     
       <col:module document="m44481" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Chromosomal Theory and Genetic Linkage</md:title>
         
@@ -1180,7 +1180,7 @@
     
     
       <col:module document="m44483" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Chromosomal Basis of Inherited Disorders</md:title>
         
@@ -1206,7 +1206,7 @@
           
     
       <col:module document="m44484" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -1218,7 +1218,7 @@
     
     
       <col:module document="m44485" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Historical Basis of Modern Understanding</md:title>
         
@@ -1230,7 +1230,7 @@
     
     
       <col:module document="m44486" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>DNA Structure and Sequencing</md:title>
         
@@ -1242,7 +1242,7 @@
     
     
       <col:module document="m44487" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Basics of DNA Replication</md:title>
         
@@ -1254,7 +1254,7 @@
     
     
       <col:module document="m44488" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>DNA Replication in Prokaryotes</md:title>
         
@@ -1266,7 +1266,7 @@
     
     
       <col:module document="m44517" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>DNA Replication in Eukaryotes</md:title>
         
@@ -1278,7 +1278,7 @@
     
     
       <col:module document="m44513" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>DNA Repair</md:title>
         
@@ -1304,7 +1304,7 @@
           
     
       <col:module document="m44518" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1316,7 +1316,7 @@
     
     
       <col:module document="m44522" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>The Genetic Code</md:title>
         
@@ -1328,7 +1328,7 @@
     
     
       <col:module document="m44523" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Prokaryotic Transcription</md:title>
         
@@ -1340,7 +1340,7 @@
     
     
       <col:module document="m44524" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Eukaryotic Transcription</md:title>
         
@@ -1352,7 +1352,7 @@
     
     
       <col:module document="m44532" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>RNA Processing in Eukaryotes</md:title>
         
@@ -1364,7 +1364,7 @@
     
     
       <col:module document="m44529" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Ribosomes and Protein Synthesis</md:title>
         
@@ -1390,7 +1390,7 @@
           
     
       <col:module document="m44533" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1402,7 +1402,7 @@
     
     
       <col:module document="m44534" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Regulation of Gene Expression</md:title>
         
@@ -1414,7 +1414,7 @@
     
     
       <col:module document="m44535" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Prokaryotic Gene Regulation</md:title>
         
@@ -1426,7 +1426,7 @@
     
     
       <col:module document="m44536" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Eukaryotic Epigenetic Gene Regulation</md:title>
         
@@ -1438,7 +1438,7 @@
     
     
       <col:module document="m44538" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Eukaryotic Transcription Gene Regulation</md:title>
         
@@ -1450,7 +1450,7 @@
     
     
       <col:module document="m44539" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Eukaryotic Post-transcriptional Gene Regulation</md:title>
         
@@ -1462,7 +1462,7 @@
     
     
       <col:module document="m44542" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Eukaryotic Translational and Post-translational Gene Regulation</md:title>
         
@@ -1474,7 +1474,7 @@
     
     
       <col:module document="m44548" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Cancer and Gene Regulation</md:title>
         
@@ -1500,7 +1500,7 @@
           
     
       <col:module document="m44551" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -1512,7 +1512,7 @@
     
     
       <col:module document="m44552" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Biotechnology</md:title>
         
@@ -1524,7 +1524,7 @@
     
     
       <col:module document="m44554" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Mapping Genomes</md:title>
         
@@ -1536,7 +1536,7 @@
     
     
       <col:module document="m44555" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Whole-Genome Sequencing</md:title>
         
@@ -1548,7 +1548,7 @@
     
     
       <col:module document="m44560" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Applying Genomics</md:title>
         
@@ -1560,7 +1560,7 @@
     
     
       <col:module document="m44558" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Genomics and Proteomics</md:title>
         
@@ -1600,7 +1600,7 @@
           
     
       <col:module document="m44561" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -1612,7 +1612,7 @@
     
     
       <col:module document="m44568" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Understanding Evolution</md:title>
         
@@ -1624,7 +1624,7 @@
     
     
       <col:module document="m44574" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Formation of New Species</md:title>
         
@@ -1636,7 +1636,7 @@
     
     
       <col:module document="m44573" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Reconnection and Rates of Speciation</md:title>
         
@@ -1662,7 +1662,7 @@
           
     
       <col:module document="m44575" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -1674,7 +1674,7 @@
     
     
       <col:module document="m44582" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Population Evolution</md:title>
         
@@ -1686,7 +1686,7 @@
     
     
       <col:module document="m44584" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Population Genetics</md:title>
         
@@ -1698,7 +1698,7 @@
     
     
       <col:module document="m44586" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Adaptive Evolution</md:title>
         
@@ -1724,7 +1724,7 @@
           
     
       <col:module document="m44587" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1736,7 +1736,7 @@
     
     
       <col:module document="m44588" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Organizing Life on Earth</md:title>
         
@@ -1748,7 +1748,7 @@
     
     
       <col:module document="m44591" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Determining Evolutionary Relationships</md:title>
         
@@ -1760,7 +1760,7 @@
     
     
       <col:module document="m44593" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Perspectives on the Phylogenetic Tree</md:title>
         
@@ -1800,7 +1800,7 @@
           
     
       <col:module document="m44594" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -1812,7 +1812,7 @@
     
     
       <col:module document="m44595" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Viral Evolution, Morphology, and Classification</md:title>
         
@@ -1824,7 +1824,7 @@
     
     
       <col:module document="m44597" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Virus Infections and Hosts</md:title>
         
@@ -1836,7 +1836,7 @@
     
     
       <col:module document="m44599" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Prevention and Treatment of Viral Infections</md:title>
         
@@ -1848,7 +1848,7 @@
     
     
       <col:module document="m44601" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Other Acellular Entities: Prions and Viroids</md:title>
         
@@ -1874,7 +1874,7 @@
           
     
       <col:module document="m44602" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -1886,7 +1886,7 @@
     
     
       <col:module document="m44603" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Prokaryotic Diversity</md:title>
         
@@ -1898,7 +1898,7 @@
     
     
       <col:module document="m44605" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.11">
         <md:title>Structure of Prokaryotes</md:title>
         
@@ -1910,7 +1910,7 @@
     
     
       <col:module document="m44606" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Prokaryotic Metabolism</md:title>
         
@@ -1922,7 +1922,7 @@
     
     
       <col:module document="m44607" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Bacterial Diseases in Humans</md:title>
         
@@ -1934,7 +1934,7 @@
     
     
       <col:module document="m44609" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Beneficial Prokaryotes</md:title>
         
@@ -1960,7 +1960,7 @@
           
     
       <col:module document="m44612" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1972,7 +1972,7 @@
     
     
       <col:module document="m44614" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Eukaryotic Origins</md:title>
         
@@ -1984,7 +1984,7 @@
     
     
       <col:module document="m44616" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Characteristics of Protists</md:title>
         
@@ -1996,7 +1996,7 @@
     
     
       <col:module document="m44617" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Groups of Protists</md:title>
         
@@ -2008,7 +2008,7 @@
     
     
       <col:module document="m44619" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Ecology of Protists</md:title>
         
@@ -2034,7 +2034,7 @@
           
     
       <col:module document="m44620" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Introduction</md:title>
         
@@ -2046,7 +2046,7 @@
     
     
       <col:module document="m44622" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Characteristics of Fungi</md:title>
         
@@ -2058,7 +2058,7 @@
     
     
       <col:module document="m44625" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Classifications of Fungi</md:title>
         
@@ -2070,7 +2070,7 @@
     
     
       <col:module document="m44632" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Ecology of Fungi</md:title>
         
@@ -2082,7 +2082,7 @@
     
     
       <col:module document="m44628" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Fungal Parasites and Pathogens</md:title>
         
@@ -2094,7 +2094,7 @@
     
     
       <col:module document="m44629" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Importance of Fungi in Human Life</md:title>
         
@@ -2120,7 +2120,7 @@
           
     
       <col:module document="m44633" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -2132,7 +2132,7 @@
     
     
       <col:module document="m44635" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Early Plant Life</md:title>
         
@@ -2144,7 +2144,7 @@
     
     
       <col:module document="m44637" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Green Algae: Precursors of Land Plants</md:title>
         
@@ -2156,7 +2156,7 @@
     
     
       <col:module document="m44638" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Bryophytes</md:title>
         
@@ -2168,7 +2168,7 @@
     
     
       <col:module document="m44640" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Seedless Vascular Plants</md:title>
         
@@ -2194,7 +2194,7 @@
           
     
       <col:module document="m44643" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -2206,7 +2206,7 @@
     
     
       <col:module document="m44653" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Evolution of Seed Plants</md:title>
         
@@ -2218,7 +2218,7 @@
     
     
       <col:module document="m44648" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Gymnosperms</md:title>
         
@@ -2230,7 +2230,7 @@
     
     
       <col:module document="m44650" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Angiosperms</md:title>
         
@@ -2242,7 +2242,7 @@
     
     
       <col:module document="m44652" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Role of Seed Plants</md:title>
         
@@ -2268,7 +2268,7 @@
           
     
       <col:module document="m44654" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -2280,7 +2280,7 @@
     
     
       <col:module document="m44655" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Features of the Animal Kingdom</md:title>
         
@@ -2292,7 +2292,7 @@
     
     
       <col:module document="m44656" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Features Used to Classify Animals</md:title>
         
@@ -2304,7 +2304,7 @@
     
     
       <col:module document="m44658" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Animal Phylogeny</md:title>
         
@@ -2316,7 +2316,7 @@
     
     
       <col:module document="m44660" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>The Evolutionary History of the Animal Kingdom</md:title>
         
@@ -2342,7 +2342,7 @@
           
     
       <col:module document="m44661" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -2354,7 +2354,7 @@
     
     
       <col:module document="m44663" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Phylum Porifera</md:title>
         
@@ -2366,7 +2366,7 @@
     
     
       <col:module document="m44664" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Phylum Cnidaria</md:title>
         
@@ -2378,7 +2378,7 @@
     
     
       <col:module document="m44665" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Superphylum Lophotrochozoa</md:title>
         
@@ -2390,7 +2390,7 @@
     
     
       <col:module document="m44667" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Superphylum Ecdysozoa</md:title>
         
@@ -2402,7 +2402,7 @@
     
     
       <col:module document="m44681" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Superphylum Deuterostomia</md:title>
         
@@ -2428,7 +2428,7 @@
           
     
       <col:module document="m44684" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -2440,7 +2440,7 @@
     
     
       <col:module document="m44685" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Chordates</md:title>
         
@@ -2452,7 +2452,7 @@
     
     
       <col:module document="m44687" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Fishes</md:title>
         
@@ -2464,7 +2464,7 @@
     
     
       <col:module document="m44688" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Amphibians</md:title>
         
@@ -2476,7 +2476,7 @@
     
     
       <col:module document="m44689" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Reptiles</md:title>
         
@@ -2488,7 +2488,7 @@
     
     
       <col:module document="m44694" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Birds</md:title>
         
@@ -2500,7 +2500,7 @@
     
     
       <col:module document="m44692" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Mammals</md:title>
         
@@ -2512,7 +2512,7 @@
     
     
       <col:module document="m44696" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Evolution of Primates</md:title>
         
@@ -2552,7 +2552,7 @@
           
     
       <col:module document="m44698" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -2564,7 +2564,7 @@
     
     
       <col:module document="m44700" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>The Plant Body</md:title>
         
@@ -2576,7 +2576,7 @@
     
     
       <col:module document="m44702" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Stems</md:title>
         
@@ -2588,7 +2588,7 @@
     
     
       <col:module document="m44704" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Roots</md:title>
         
@@ -2600,7 +2600,7 @@
     
     
       <col:module document="m44706" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Leaves</md:title>
         
@@ -2612,7 +2612,7 @@
     
     
       <col:module document="m44708" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Transport of Water and Solutes in Plants</md:title>
         
@@ -2624,7 +2624,7 @@
     
     
       <col:module document="m44711" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Plant Sensory Systems and Responses</md:title>
         
@@ -2650,7 +2650,7 @@
           
     
       <col:module document="m44712" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -2662,7 +2662,7 @@
     
     
       <col:module document="m44714" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Nutritional Requirements of Plants</md:title>
         
@@ -2674,7 +2674,7 @@
     
     
       <col:module document="m44715" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>The Soil</md:title>
         
@@ -2686,7 +2686,7 @@
     
     
       <col:module document="m44718" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Nutritional Adaptations of Plants</md:title>
         
@@ -2712,7 +2712,7 @@
           
     
       <col:module document="m44720" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -2724,7 +2724,7 @@
     
     
       <col:module document="m44722" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Reproductive Development and Structure</md:title>
         
@@ -2736,7 +2736,7 @@
     
     
       <col:module document="m44723" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Pollination and Fertilization</md:title>
         
@@ -2748,7 +2748,7 @@
     
     
       <col:module document="m44725" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Asexual Reproduction</md:title>
         
@@ -2788,7 +2788,7 @@
           
     
       <col:module document="m44728" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -2800,7 +2800,7 @@
     
     
       <col:module document="m44730" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Animal Form and Function</md:title>
         
@@ -2812,7 +2812,7 @@
     
     
       <col:module document="m44731" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Animal Primary Tissues</md:title>
         
@@ -2824,7 +2824,7 @@
     
     
       <col:module document="m44733" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Homeostasis</md:title>
         
@@ -2850,7 +2850,7 @@
           
     
       <col:module document="m44734" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -2862,7 +2862,7 @@
     
     
       <col:module document="m44736" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Digestive Systems</md:title>
         
@@ -2874,7 +2874,7 @@
     
     
       <col:module document="m44740" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Nutrition and Energy Production</md:title>
         
@@ -2886,7 +2886,7 @@
     
     
       <col:module document="m44742" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Digestive System Processes</md:title>
         
@@ -2898,7 +2898,7 @@
     
     
       <col:module document="m44744" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Digestive System Regulation</md:title>
         
@@ -2924,7 +2924,7 @@
           
     
       <col:module document="m44745" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -2936,7 +2936,7 @@
     
     
       <col:module document="m44747" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Neurons and Glial Cells</md:title>
         
@@ -2948,7 +2948,7 @@
     
     
       <col:module document="m44748" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>How Neurons Communicate</md:title>
         
@@ -2960,7 +2960,7 @@
     
     
       <col:module document="m44749" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Central Nervous System</md:title>
         
@@ -2972,7 +2972,7 @@
     
     
       <col:module document="m44751" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Peripheral Nervous System</md:title>
         
@@ -2984,7 +2984,7 @@
     
     
       <col:module document="m44752" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Nervous System Disorders</md:title>
         
@@ -3010,7 +3010,7 @@
           
     
       <col:module document="m44753" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3022,7 +3022,7 @@
     
     
       <col:module document="m44754" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Sensory Processes</md:title>
         
@@ -3034,7 +3034,7 @@
     
     
       <col:module document="m44757" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Somatosensation</md:title>
         
@@ -3046,7 +3046,7 @@
     
     
       <col:module document="m44764" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Taste and Smell</md:title>
         
@@ -3058,7 +3058,7 @@
     
     
       <col:module document="m44760" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Hearing and Vestibular Sensation</md:title>
         
@@ -3070,7 +3070,7 @@
     
     
       <col:module document="m44761" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Vision</md:title>
         
@@ -3096,7 +3096,7 @@
           
     
       <col:module document="m44765" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3108,7 +3108,7 @@
     
     
       <col:module document="m44766" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Types of Hormones</md:title>
         
@@ -3120,7 +3120,7 @@
     
     
       <col:module document="m44768" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>How Hormones Work</md:title>
         
@@ -3132,7 +3132,7 @@
     
     
       <col:module document="m44777" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Regulation of Body Processes</md:title>
         
@@ -3144,7 +3144,7 @@
     
     
       <col:module document="m44771" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Regulation of Hormone Production</md:title>
         
@@ -3156,7 +3156,7 @@
     
     
       <col:module document="m44775" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Endocrine Glands</md:title>
         
@@ -3182,7 +3182,7 @@
           
     
       <col:module document="m44783" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3194,7 +3194,7 @@
     
     
       <col:module document="m44781" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Types of Skeletal Systems</md:title>
         
@@ -3206,7 +3206,7 @@
     
     
       <col:module document="m44789" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Bone</md:title>
         
@@ -3218,7 +3218,7 @@
     
     
       <col:module document="m44786" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Joints and Skeletal Movement</md:title>
         
@@ -3230,7 +3230,7 @@
     
     
       <col:module document="m44788" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Muscle Contraction and Locomotion</md:title>
         
@@ -3256,7 +3256,7 @@
           
     
       <col:module document="m44790" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3268,7 +3268,7 @@
     
     
       <col:module document="m44792" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Systems of Gas Exchange</md:title>
         
@@ -3280,7 +3280,7 @@
     
     
       <col:module document="m44795" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Gas Exchange across Respiratory Surfaces</md:title>
         
@@ -3292,7 +3292,7 @@
     
     
       <col:module document="m44797" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Breathing</md:title>
         
@@ -3304,7 +3304,7 @@
     
     
       <col:module document="m44799" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Transport of Gases in Human Bodily Fluids</md:title>
         
@@ -3330,7 +3330,7 @@
           
     
       <col:module document="m44800" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -3342,7 +3342,7 @@
     
     
       <col:module document="m44801" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Overview of the Circulatory System</md:title>
         
@@ -3354,7 +3354,7 @@
     
     
       <col:module document="m44804" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Components of the Blood</md:title>
         
@@ -3366,7 +3366,7 @@
     
     
       <col:module document="m44805" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Mammalian Heart and Blood Vessels</md:title>
         
@@ -3378,7 +3378,7 @@
     
     
       <col:module document="m44806" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Blood Flow and Blood Pressure Regulation</md:title>
         
@@ -3404,7 +3404,7 @@
           
     
       <col:module document="m44807" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3416,7 +3416,7 @@
     
     
       <col:module document="m44808" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Osmoregulation and Osmotic Balance</md:title>
         
@@ -3428,7 +3428,7 @@
     
     
       <col:module document="m44809" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>The Kidneys and Osmoregulatory Organs</md:title>
         
@@ -3440,7 +3440,7 @@
     
     
       <col:module document="m44810" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Excretion Systems</md:title>
         
@@ -3452,7 +3452,7 @@
     
     
       <col:module document="m44811" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Nitrogenous Wastes</md:title>
         
@@ -3464,7 +3464,7 @@
     
     
       <col:module document="m44828" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Hormonal Control of Osmoregulatory Functions</md:title>
         
@@ -3490,7 +3490,7 @@
           
     
       <col:module document="m44817" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -3502,7 +3502,7 @@
     
     
       <col:module document="m44820" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Innate Immune Response</md:title>
         
@@ -3514,7 +3514,7 @@
     
     
       <col:module document="m44821" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Adaptive Immune Response</md:title>
         
@@ -3526,7 +3526,7 @@
     
     
       <col:module document="m44823" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Antibodies</md:title>
         
@@ -3538,7 +3538,7 @@
     
     
       <col:module document="m44831" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Disruptions in the Immune System</md:title>
         
@@ -3564,7 +3564,7 @@
           
     
       <col:module document="m44851" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3576,7 +3576,7 @@
     
     
       <col:module document="m44836" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Reproduction Methods</md:title>
         
@@ -3588,7 +3588,7 @@
     
     
       <col:module document="m44838" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Fertilization</md:title>
         
@@ -3600,7 +3600,7 @@
     
     
       <col:module document="m44839" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Human Reproductive Anatomy and Gametogenesis</md:title>
         
@@ -3612,7 +3612,7 @@
     
     
       <col:module document="m44841" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Hormonal Control of Human Reproduction</md:title>
         
@@ -3624,7 +3624,7 @@
     
     
       <col:module document="m44848" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Human Pregnancy and Birth</md:title>
         
@@ -3636,7 +3636,7 @@
     
     
       <col:module document="m44846" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Fertilization and Early Embryonic Development</md:title>
         
@@ -3648,7 +3648,7 @@
     
     
       <col:module document="m44850" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Organogenesis and Vertebrate Formation</md:title>
         
@@ -3688,7 +3688,7 @@
           
     
       <col:module document="m44853" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3700,7 +3700,7 @@
     
     
       <col:module document="m44856" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Scope of Ecology</md:title>
         
@@ -3712,7 +3712,7 @@
     
     
       <col:module document="m44857" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Biogeography</md:title>
         
@@ -3724,7 +3724,7 @@
     
     
       <col:module document="m44858" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Terrestrial Biomes</md:title>
         
@@ -3736,7 +3736,7 @@
     
     
       <col:module document="m44859" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Aquatic Biomes</md:title>
         
@@ -3748,7 +3748,7 @@
     
     
       <col:module document="m44861" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Climate and the Effects of Global Climate Change</md:title>
         
@@ -3774,7 +3774,7 @@
           
     
       <col:module document="m44863" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3786,7 +3786,7 @@
     
     
       <col:module document="m44864" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Population Demography</md:title>
         
@@ -3798,7 +3798,7 @@
     
     
       <col:module document="m44881" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Life Histories and Natural Selection</md:title>
         
@@ -3810,7 +3810,7 @@
     
     
       <col:module document="m44872" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Environmental Limits to Population Growth</md:title>
         
@@ -3822,7 +3822,7 @@
     
     
       <col:module document="m44882" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Population Dynamics and Regulation</md:title>
         
@@ -3834,7 +3834,7 @@
     
     
       <col:module document="m44875" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Human Population Growth</md:title>
         
@@ -3846,7 +3846,7 @@
     
     
       <col:module document="m44878" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Community Ecology</md:title>
         
@@ -3858,7 +3858,7 @@
     
     
       <col:module document="m44879" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Behavioral Biology: Proximate and Ultimate Causes of Behavior</md:title>
         
@@ -3884,7 +3884,7 @@
           
     
       <col:module document="m44883" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3896,7 +3896,7 @@
     
     
       <col:module document="m44885" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Ecology of Ecosystems</md:title>
         
@@ -3908,7 +3908,7 @@
     
     
       <col:module document="m44887" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Energy Flow through Ecosystems</md:title>
         
@@ -3920,7 +3920,7 @@
     
     
       <col:module document="m44889" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Biogeochemical Cycles</md:title>
         
@@ -3946,7 +3946,7 @@
           
     
       <col:module document="m44890" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction</md:title>
         
@@ -3958,7 +3958,7 @@
     
     
       <col:module document="m44892" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>The Biodiversity Crisis</md:title>
         
@@ -3970,7 +3970,7 @@
     
     
       <col:module document="m44894" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>The Importance of Biodiversity to Human Life</md:title>
         
@@ -3982,7 +3982,7 @@
     
     
       <col:module document="m44896" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Threats to Biodiversity</md:title>
         
@@ -3994,7 +3994,7 @@
     
     
       <col:module document="m44898" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Preserving Biodiversity</md:title>
         
@@ -4012,7 +4012,7 @@
     
     
       <col:module document="m45849" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Periodic Table of Elements</md:title>
         
@@ -4024,7 +4024,7 @@
     
     
       <col:module document="m60107" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.1">
         <md:title>Geological Time</md:title>
         
@@ -4036,7 +4036,7 @@
     
     
       <col:module document="m60108" version="latest"
-                  repository="http://cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.1">
         <md:title>Measurements and the Metric System</md:title>
         
