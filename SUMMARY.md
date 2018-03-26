@@ -8,7 +8,7 @@ layout: page
 Biology is designed for multi-semester biology courses for science majors. It is grounded on an evolutionary basis and includes exciting features that highlight careers in the biological sciences and everyday applications of the concepts at hand. To meet the needs of today’s instructors and students, some content has been strategically condensed while maintaining the overall scope and coverage of traditional texts for this course. Instructors can customize the book, adapting it to the approach that works best in their classroom. Biology also includes an innovative art program that incorporates critical thinking and clicker questions to help students understand—and apply—key concepts.
 </div>
 
-1.  {: .preface} [Preface to Biology](contents/m46078.md)
+1.  {: .preface} [Preface](contents/m46078.md)
 2.  {: .part} Unit 1. The Chemistry of Life
     1.  {: .chapter} [The Study of Life](contents/m44386.md)
         1.  [The Science of Biology](contents/m44387.md)
