@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Biology'
-tagline:          'from http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.1 (CC-BY)'
+tagline:          'from http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.2 (CC-BY)'
 url:              https://github.com/philschatz/biology-book
-origin:           http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.1
+origin:           http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.2
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          11.1
+version:          11.2
 
 bookviewer:       http://philschatz.com/book-viewer
 
